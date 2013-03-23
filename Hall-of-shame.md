@@ -48,3 +48,9 @@
 
 0. NoAdVideo.Player, 剽窃者: 邓飞翔(音译); 邮箱: `1870367414@qq.com`, `402444388@qq.com`; 地址: 宁夏 银川 金凤区 丽园小区 17-5-502
 > http://www.noadvideo.net/
+
+> 本站文章除注明转载外，均为本站原创编译
+> 转载请注明以下信息
+> 文章转载自：鲁夫的爱 [ http://opengg.me/ ]
+> 本文标题：耻辱柱
+> 本文地址：http://opengg.me/hall-of-shame/
