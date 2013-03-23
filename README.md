@@ -25,5 +25,5 @@
 0. 为我提供可防御 DDOS 的服务器.
 0. [捐助我][donation]
 
-[donation]: http://alipay.com
+[donation]: https://github.com/OpenGG/OpenGG/issues/3
 [hallOfShame]: https://github.com/OpenGG/OpenGG/blob/master/Hall-of-shame.md
