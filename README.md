@@ -26,4 +26,4 @@
 0. [¾èÖúÎÒ][donation]
 
 [donation]: http://alipay.com
-[hallOfShame]: 
+[hallOfShame]: https://github.com/OpenGG/OpenGG/blob/master/Hall-of-shame.md
