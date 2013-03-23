@@ -1,0 +1,4 @@
+OpenGG
+======
+
+OpenGG's blog
